@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "args": [
+        "--dart-define=TMDB_API_KEY=6b597b6ab89f3d87f18ad7e84262d158"
+      ]
+    }
+  ]
+}

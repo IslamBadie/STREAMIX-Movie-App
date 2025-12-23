@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27402467934",
+    "project_id": "streamix-d25f6",
+    "storage_bucket": "streamix-d25f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27402467934:android:48b06be1fe529ed0bb92cf",
+        "android_client_info": {
+          "package_name": "com.streamix.movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkqO3nYx2__0336qJtFpkPxDayBIcBaV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
